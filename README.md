@@ -8,6 +8,7 @@ Bem-vindo ao guia do **Indicador de Gráfico de Linha de Ruptura**, uma ferramen
 3. [🚀 Identifique e Aproveite os Flip-Flops no Mercado](#-identifique-e-aproveite-os-flip-flops-no-mercado)
 4. [🚀 Entenda o Mercado com a Tabela de Sequência Temporal](#-entenda-o-mercado-com-a-tabela-de-sequência-temporal)
 5. [🚀 Probabilidade de Reversão e Continuação](#-probabilidade-de-reversão-e-continuação)
+6. [⚠️ Aviso de Responsabilidade](#️-aviso-de-responsabilidade)
 
 ---
 
@@ -109,3 +110,22 @@ Nosso indicador combina cálculos avançados para determinar níveis críticos d
 
 ![6](https://github.com/user-attachments/assets/088c58d5-e071-48c2-978b-ea8ade878252)
 ![7](https://github.com/user-attachments/assets/628acdbc-fdc0-44e2-8168-fb348a86f5ba)
+
+---
+
+## ⚠️ Aviso de Responsabilidade
+
+Esta ferramenta foi desenvolvida para auxiliar na análise de mercado, servindo como um complemento às suas estratégias e estudos. É importante lembrar que o mercado cripto, especialmente o de Futuros, envolve riscos significativos, e todo trade deve ser realizado com consciência e responsabilidade.
+
+### Recomendações Importantes:
+- **Alavancagem:** No Mercado de Futuros, evite alavancagens superiores a 20x. O risco aumenta exponencialmente com alavancagens mais altas.  
+- **Gestão de Risco:** Nunca coloque todo o seu capital em uma única operação. Recomendamos que você opere com, no máximo, **3% da sua banca**.  
+- **Decisões de Investimento:** Use este indicador como uma ferramenta adicional, nunca como única base para suas decisões de investimento.
+
+### Créditos:
+- O código original foi desenvolvido por **@LonesomeTheBlue**.  
+- Foram realizadas melhorias no código e adaptações visuais para o público de língua portuguesa por **@ShyraBTC**.  
+
+Lembre-se: o sucesso no mercado depende de estudo, disciplina e controle emocional. Esta ferramenta é apenas um suporte para potencializar suas análises. Operar no mercado financeiro exige responsabilidade e preparo.
+
+Boas análises e bons trades! 🚀

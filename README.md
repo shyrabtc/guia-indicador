@@ -170,7 +170,7 @@ Esta ferramenta foi desenvolvida para auxiliar na análise de mercado, servindo 
 - **Decisões de Investimento:** Use este indicador como uma ferramenta adicional, nunca como única base para suas decisões de investimento.
 
 ### Créditos:
-- O código original foi desenvolvido por **@LonesomeTheBlue**.  
+- O código original foi desenvolvido por **@Lonesome**.  
 - Foram realizadas melhorias no código e adaptações visuais para o público de língua portuguesa por **@ShyraBTC**.  
 
 ---
